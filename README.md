@@ -4,11 +4,6 @@
 
 **Golang developer | Backend Engineer**
 
-[![Telegram](https://img.shields.io/badge/Telegram-romamalax-0088cc?style=flat-square&logo=telegram)](https://t.me/romamalax)  <br>   [![Habr](https://img.shields.io/badge/Habr-romamalax-65A3BE?style=flat-square&logo=habr)](https://habr.com/ru/users/romamalax)
-
-</div>
-
-
 <div align="center">
 
 ### 🛠️ Stack
